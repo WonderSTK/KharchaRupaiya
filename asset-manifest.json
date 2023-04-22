@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WonderSTK.io/KharchaRupaiya/static/css/main.96d25427.css",
+    "main.js": "/WonderSTK.io/KharchaRupaiya/static/js/main.fab25718.js",
+    "index.html": "/WonderSTK.io/KharchaRupaiya/index.html",
+    "main.96d25427.css.map": "/WonderSTK.io/KharchaRupaiya/static/css/main.96d25427.css.map",
+    "main.fab25718.js.map": "/WonderSTK.io/KharchaRupaiya/static/js/main.fab25718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96d25427.css",
+    "static/js/main.fab25718.js"
+  ]
+}
